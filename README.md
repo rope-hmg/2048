@@ -16,3 +16,10 @@ The top of the page features three controls:
 
 Pressing the new game button will reset the board using the values from grid size and obstacle count.
 Changing the grid size or obstacle count doesn't affect the current game.
+
+# Running
+
+```bash
+npm i
+npm run dev
+```
